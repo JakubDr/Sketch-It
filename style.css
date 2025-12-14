@@ -136,3 +136,8 @@ body {
   height: 100% !important;
   display: block;
 }
+#menu button {
+  margin: 10px;
+  padding: 15px 25px;
+  font-size: 18px;
+}
